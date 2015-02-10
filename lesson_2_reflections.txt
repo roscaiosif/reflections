@@ -1,0 +1,2 @@
+1. How is the staging area different from the working directory and the repository? What value do you think it offers?
+is where we can bundle together some files from the working directory that will be commited into the repository
