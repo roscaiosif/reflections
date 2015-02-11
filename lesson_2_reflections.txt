@@ -1,2 +1,11 @@
 1. How is the staging area different from the working directory and the repository? What value do you think it offers?
 is where we can bundle together some files from the working directory that will be commited into the repository
+
+2. How can you use the staging area to make sure you have one commit per logical change?
+Using git diff will compare working directory to the staging area...
+
+3. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Different versions or experimantation but always remaining with a working version
+
+4. How do the diagrams help you visualize the branch structure?
+using git log --graph  --oneline <master>...
